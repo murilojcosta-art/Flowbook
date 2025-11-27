@@ -94,10 +94,6 @@ README.md (Este arquivo)
 
 https://docs.google.com/document/d/1xprSx9XBW_ATmYOPFwdLaWjGNgJQC-JKN1qmBpCdlis/edit?usp=sharing
 
-Relatório_Final.pdf
-
-https://docs.google.com/document/d/10F0Jw0L93O2QJslEFTtBwQkvL6cSSDDPPIG3VP7PaI0/edit?usp=sharing
-
 Protótipo Figma Link.txt
 
 https://www.figma.com/make/B8FfaUENBuh87WOePAaPcT/Escambo-Liter%C3%A1rio-SESI-Prototype?node-id=0-1&t=ODdoQWcYOXHq96xH-1
